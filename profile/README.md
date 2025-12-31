@@ -26,6 +26,4 @@ If you’re unsure whether a repository is open to contributions, feel free to o
 
 ## Attribution
 
-Gigalope logo includes **antlers** by **Travis Bird**, sourced from  
-[The Noun Project](https://thenounproject.com/browse/icons/term/antlers/)  
-and licensed under **CC BY 3.0**.
+Gigalope logo includes **antlers** by **Travis Bird**, sourced from [The Noun Project](https://thenounproject.com/browse/icons/term/antlers/) and licensed under **CC BY 3.0**.
